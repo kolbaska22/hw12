@@ -1,1 +1,53 @@
+h1{
+    text-align: center;
+    color: darkmagenta;
+    font-style: italic;
+}
+.list{
+    font-weight: 700;
+    display: flex;
+    justify-content: space-around;
+    background-color: chartreuse;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    list-style: none;
+}
+.wrapper{
+    display: flex;
+    gap: 40px;
+}
+body{
+    background-color: bisque;
+}
+.box{
+    background-color: blueviolet;
+    padding: 10px;
+    border: 10px dotted violet;
+    
+}
+.item{
+    background-color: aqua;
+}
+img{
+    width: 150px;
+}
+.footer{
+padding: 40px auto;
+background-color: chartreuse;
+margin-top: 40px;
+}
+.new{ 
+    border: 1px solid gray; 
+    padding: 30px; 
+    width: 310px; 
+    margin: 20px; 
+} 
+.new-img{ 
+    width: 100%; 
+    margin-bottom: 30px; 
+}
+.new-wrap{
+    display: flex;
+    justify-content: space-around;
+}
 
